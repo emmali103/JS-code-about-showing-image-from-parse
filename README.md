@@ -1,7 +1,8 @@
 # JS-code-about-showing-image-from-parse
 JS code about showing image from parse
+
+
 $(function() {
- 
     Parse.$ = jQuery;
  
     // Replace this line with the one on your Quickstart Guide Page
