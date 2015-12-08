@@ -2,9 +2,10 @@
 JS code about showing image from parse
 
 
-$(function() {
-    Parse.$ = jQuery;
  
+    
+    $(function() {
+    Parse.$ = jQuery;
     // Replace this line with the one on your Quickstart Guide Page
     Parse.initialize("JTGeqNTrE0BBOl4rLKJaPXdG9NRa19zF7acmjImF", "HHaeeUCUVtqVlc0WKMsdXwlV8ZFAvB7IyDhRMIAF");
 	//Parse.initialize("ZTh4lArJFksTGuMLZ6sAaSyx1KOzCo3lL1QhwER7", "X2lqnhHPNKM5pkNKxZaWQlbZSMWItYxD7eT4Tleg");
