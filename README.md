@@ -100,10 +100,11 @@ JS code about showing image from parse
 		
 		 
 	});
+	});
 	
 	
  
-});
+
 
 
 
